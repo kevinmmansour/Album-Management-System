@@ -17,3 +17,8 @@ Viewing records
 Album Management system is a simple mini project in C, built as a console application without using graphics features. It’s just a demonstration of the use of file handling in C language. It has been used to jump from one menu to another within the program. Also, for editing and deleting the recorded items, separate functions have not been used.
 
 It has been used to jump from one menu to another within the program. Also, for editing and deleting the records, separate functions are used.
+
+Login Details :
+
+Username : Album
+Password : mgmt
